@@ -1,7 +1,6 @@
 # TASK-15-End-to-End-Machine-Learning-Pipeline
 End-to-End Machine Learning Pipeline using Breast Cancer dataset. Includes preprocessing with ColumnTransformer, model training via Logistic Regression, evaluation metrics, and saved pipeline for deployment. Demonstrates production-ready ML workflow.
 
-# Task 15 – End-to-End Machine Learning Pipeline
 
 ## 📌 Overview
 This repository contains the implementation of **Task 15: End-to-End Machine Learning Pipeline** as part of the AI & ML Internship program.  
